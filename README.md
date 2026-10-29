@@ -1,6 +1,6 @@
 # The Agency Inversion
 
-**An interactive, evidence-aware exploration of what happens when financial institutions continue to hold assets and execute regulated transactions, while AI agents increasingly shape discovery, comparison, recommendation and decision-making.**
+**An interactive, evidence-aware exploration of what happens when financial institutions continue to hold assets and execute regulated transactions, while AI agents increasingly shape discovery, comparison, recommendation and execution.**
 
 Created by **Christopher Hayes, CDAIO**.
 
@@ -13,6 +13,23 @@ Created by **Christopher Hayes, CDAIO**.
 
 - **Interactive experience:** [Open the experience](https://chrisdhayes.github.io/the-agency-inversion/)
 
+### Jump directly to a chapter
+
+Go straight to the published experience at a specific section using the chapter anchors below:
+
+- [The thesis](https://chrisdhayes.github.io/the-agency-inversion/#story)
+- [V01 · Inversion Morph](https://chrisdhayes.github.io/the-agency-inversion/#inversion)
+- [V02 · Decision Influence Map](https://chrisdhayes.github.io/the-agency-inversion/#influence)
+- [V03 · Capability Paradox](https://chrisdhayes.github.io/the-agency-inversion/#paradox)
+- [V04–V05 · Economics and friction](https://chrisdhayes.github.io/the-agency-inversion/#economics)
+- [V06 · Authority and Consequence Matrix](https://chrisdhayes.github.io/the-agency-inversion/#authority)
+- [V07 · Agent Swarm Experiment](https://chrisdhayes.github.io/the-agency-inversion/#system)
+- [V08–V10 · Controls, receipts and trust boundaries](https://chrisdhayes.github.io/the-agency-inversion/#controls)
+- [V11 · Strategic Response Explorer](https://chrisdhayes.github.io/the-agency-inversion/#strategy)
+- [V12 · Evidence and Claim Explorer](https://chrisdhayes.github.io/the-agency-inversion/#evidence)
+
+These links use the page's in-browser hash navigation so the experience opens at the relevant section instead of starting at the top of the story.
+
 ## Repository description
 
 Recommended GitHub repository description:
@@ -21,7 +38,7 @@ Recommended GitHub repository description:
 
 ## Why this project exists
 
-Financial institutions may retain custody, execution and regulated accountability while AI agents increasingly influence how customers discover alternatives, compare providers, receive recommendations and make decisions.
+Financial institutions may retain custody, execution and regulated accountability while AI agents increasingly influence how customers discover alternatives, compare providers, receive recommendations and complete tasks.
 
 This project examines that **agency inversion** through an interactive story. It separates five questions that are often collapsed into one:
 
@@ -31,7 +48,7 @@ This project examines that **agency inversion** through an interactive story. It
 4. Which institution or system executes the action?
 5. Who remains accountable when the result is disputed, incomplete or wrong?
 
-The experience is designed to make those questions explorable rather than merely descriptive. Readers can change assumptions, inspect control boundaries and distinguish observed evidence from scenarios, illustrations and design proposals.
+The experience is designed to make those questions explorable rather than merely descriptive. Readers can change assumptions, inspect control boundaries and distinguish observed evidence from scenario-based possibilities.
 
 ## Core thesis
 
@@ -78,7 +95,7 @@ Compares representative financial workflows and proposes different control postu
 
 ### V07 · Agent Swarm Experiment
 
-Uses a closed, normalised four-bank system to illustrate how adoption, strategy similarity, response speed and relative attractiveness could influence concentration. It is a sensitivity demonstration, not a forecast.
+Uses a closed, normalised four-bank system to illustrate how adoption, strategy similarity, response speed and relative attractiveness could influence concentration. It is a sensitivity demonstration.
 
 ### V08 · Delegated Authority Laboratory
 
@@ -135,7 +152,7 @@ The **Governed Authority and Execution Plane** is an original design synthesis i
 
 Its proposed flow is:
 
-> Agent proposes → identities are verified → mandate is checked → current data and preconditions are validated → independent policy is applied → human approval is obtained where required → execution is recorded and evidence is preserved.
+> Agent proposes → identities are verified → mandate is checked → current data and preconditions are validated → independent policy is applied → human approval is obtained where required → execution is performed under verified authority → evidence is retained for contestability and recovery.
 
 The design is intended to keep model reasoning separate from business authority and transaction execution.
 
@@ -144,7 +161,7 @@ The design is intended to keep model reasoning separate from business authority 
 This experience should be interpreted within the following boundaries:
 
 - The economic models are simplified illustrations, not forecasts.
-- The swarm experiment is a closed, normalised system and does not model actual bank balance sheets, liquidity buffers, depositor diversity, payment timing, regulatory intervention or crisis probability.
+- The swarm experiment is a closed, normalised system and does not model actual bank balance sheets, liquidity buffers, depositor diversity, payment timing, regulatory intervention or crisis probabilities.
 - Example policy decisions are conceptual and are not connected to real accounts or production execution systems.
 - The authority matrix presents design recommendations, not universal risk ratings.
 - Regulatory, product and institutional conditions may change after the stated research cutoff.
@@ -152,7 +169,7 @@ This experience should be interpreted within the following boundaries:
 
 ## Disclaimer
 
-Independent research and educational content by **Christopher Hayes, CDAIO**. Views are my own. Illustrations and simulations are conceptual, not financial, investment, legal, regulatory or security advice. They are designed to examine a strategic arrangement of authority, evidence and execution under changing conditions.
+Independent research and educational content by **Christopher Hayes, CDAIO**. Views are my own. Illustrations and simulations are conceptual, not financial, investment, legal, regulatory or security advice.
 
 ## Technology
 
@@ -233,7 +250,7 @@ Set the repository homepage to the GitHub Pages URL after deployment.
 
 ### Social preview
 
-Create and upload a 1280 × 640 pixel social preview image using the title **The Agency Inversion** and subtitle **When an AI agent increasingly controls the financial decision journey**. Avoid including unstable or speculative claims in the visual summary.
+Create and upload a 1280 × 640 pixel social preview image using the title **The Agency Inversion** and subtitle **When an AI agent increasingly controls the financial decision journey**. Avoid including extraneous interface clutter or duplicate navigation text.
 
 ## Suggested repository structure
 
@@ -303,7 +320,7 @@ Add the final GitHub Pages URL to the citation after publication.
 
 ## AI-use transparency
 
-AI was used as a research, design and editorial partner to organise source material, test the interactive experience, challenge claims, identify counterarguments and refine the presentation. The author retains responsibility for the framing, argument and final editorial decisions.
+AI was used as a research, design and editorial partner to organise source material, test the interactive experience, challenge claims, identify counterarguments and refine the presentation. The author remains responsible for the synthesis, framing and claims.
 
 ## Contributions and reuse
 
