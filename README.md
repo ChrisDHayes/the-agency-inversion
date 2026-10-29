@@ -1,6 +1,6 @@
 # The Agency Inversion
 
-**An interactive, evidence-aware exploration of what happens when financial institutions continue to hold assets and execute regulated transactions, while AI agents increasingly shape discovery, comparison, recommendation and customer intent.**
+**An interactive, evidence-aware exploration of what happens when financial institutions continue to hold assets and execute regulated transactions, while AI agents increasingly shape discovery, comparison, recommendation and decision-making.**
 
 Created by **Christopher Hayes, CDAIO**.
 
@@ -11,10 +11,7 @@ Created by **Christopher Hayes, CDAIO**.
 
 ## Live experience
 
-Once GitHub Pages is enabled, add the public URL here:
-
-- **Interactive experience:** `ADD-GITHUB-PAGES-URL`
-- **Companion Substack article:** `ADD-SUBSTACK-ARTICLE-URL`
+- **Interactive experience:** [Open the experience](https://chrisdhayes.github.io/the-agency-inversion/)
 
 ## Repository description
 
@@ -24,7 +21,7 @@ Recommended GitHub repository description:
 
 ## Why this project exists
 
-Financial institutions may retain custody, execution and regulated accountability while AI agents increasingly influence how customers discover alternatives, compare providers, receive recommendations and formulate financial intentions.
+Financial institutions may retain custody, execution and regulated accountability while AI agents increasingly influence how customers discover alternatives, compare providers, receive recommendations and make decisions.
 
 This project examines that **agency inversion** through an interactive story. It separates five questions that are often collapsed into one:
 
@@ -34,7 +31,7 @@ This project examines that **agency inversion** through an interactive story. It
 4. Which institution or system executes the action?
 5. Who remains accountable when the result is disputed, incomplete or wrong?
 
-The experience is designed to make those questions explorable rather than merely descriptive. Readers can change assumptions, inspect control boundaries and distinguish observed evidence from scenarios, illustrations and original design proposals.
+The experience is designed to make those questions explorable rather than merely descriptive. Readers can change assumptions, inspect control boundaries and distinguish observed evidence from scenarios, illustrations and design proposals.
 
 ## Core thesis
 
@@ -61,7 +58,7 @@ Compares traditional institution-mediated finance with an emerging agent-mediate
 
 ### V02 · Decision Influence Map
 
-Moves through the financial decision journey from discovery and comparison to recommendation, authorisation, execution and monitoring. It demonstrates that influence, authority and execution are distinct functions.
+Moves through the financial decision journey from discovery and comparison to recommendation, authorisation, execution and monitoring. It demonstrates that influence, authority and execution are distinct.
 
 ### V03 · Capability Paradox
 
@@ -81,7 +78,7 @@ Compares representative financial workflows and proposes different control postu
 
 ### V07 · Agent Swarm Experiment
 
-Uses a closed, normalised four-bank system to illustrate how adoption, strategy similarity, response speed and relative attractiveness could influence concentration. It is a sensitivity demonstration, not a liquidity stress test or crisis forecast.
+Uses a closed, normalised four-bank system to illustrate how adoption, strategy similarity, response speed and relative attractiveness could influence concentration. It is a sensitivity demonstration, not a forecast.
 
 ### V08 · Delegated Authority Laboratory
 
@@ -105,7 +102,7 @@ Separates reported developments, primary institutional material, scenarios, illu
 
 ## Direct links to chapters
 
-After GitHub Pages is enabled, the following fragment links can be appended to the public URL:
+The following fragment links can be appended to the public URL:
 
 - `#inversion` · Agency inversion and V01
 - `#influence` · Decision influence and V02
@@ -117,7 +114,7 @@ After GitHub Pages is enabled, the following fragment links can be appended to t
 - `#strategy` · Strategic response explorer and V11
 - `#evidence` · Evidence and claim explorer and V12
 
-These anchors are intended for deep links from the companion Substack article.
+These anchors are intended for deep links from the published experience and any related write-up.
 
 ## Evidence model
 
@@ -138,7 +135,7 @@ The **Governed Authority and Execution Plane** is an original design synthesis i
 
 Its proposed flow is:
 
-> Agent proposes → identities are verified → mandate is checked → current data and preconditions are validated → independent policy is applied → human approval is obtained where required → controlled execution occurs → the outcome is reconciled → evidence is retained → recovery remains available
+> Agent proposes → identities are verified → mandate is checked → current data and preconditions are validated → independent policy is applied → human approval is obtained where required → execution is recorded and evidence is preserved.
 
 The design is intended to keep model reasoning separate from business authority and transaction execution.
 
@@ -155,7 +152,7 @@ This experience should be interpreted within the following boundaries:
 
 ## Disclaimer
 
-Independent research and educational content by **Christopher Hayes, CDAIO**. Views are my own. Illustrations and simulations are conceptual, not financial, investment, legal, regulatory or security advice. Verify consequential decisions against current primary sources and qualified professional guidance.
+Independent research and educational content by **Christopher Hayes, CDAIO**. Views are my own. Illustrations and simulations are conceptual, not financial, investment, legal, regulatory or security advice. They are designed to examine a strategic arrangement of authority, evidence and execution under changing conditions.
 
 ## Technology
 
@@ -211,7 +208,7 @@ Using Visual Studio Code, the **Live Server** extension can also serve `index.ht
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Select the `main` branch and the `/ (root)` folder.
 6. Save the Pages configuration.
-7. Add the resulting public URL to this README and to the companion Substack article.
+7. Confirm the resulting public URL and update the links in this README if needed.
 8. Test every chapter anchor after deployment.
 
 No path changes should be required because the experience is self-contained and the entry file is named `index.html`.
@@ -236,7 +233,7 @@ Set the repository homepage to the GitHub Pages URL after deployment.
 
 ### Social preview
 
-Create and upload a 1280 × 640 pixel social preview image using the title **The Agency Inversion** and subtitle **When an AI agent increasingly controls the financial decision journey**. Avoid including institutional logos unless their use has been approved.
+Create and upload a 1280 × 640 pixel social preview image using the title **The Agency Inversion** and subtitle **When an AI agent increasingly controls the financial decision journey**. Avoid including unstable or speculative claims in the visual summary.
 
 ## Suggested repository structure
 
@@ -272,7 +269,6 @@ Complete the following checks after deployment:
 - [ ] The layout is checked in current Chromium, Firefox and Safari browsers.
 - [ ] The experience is reviewed on at least one physical mobile device.
 - [ ] Screen-reader testing is completed.
-- [ ] The Substack article distinguishes reported evidence, scenarios, illustrations and original synthesis.
 
 ## Versioning
 
@@ -307,7 +303,7 @@ Add the final GitHub Pages URL to the citation after publication.
 
 ## AI-use transparency
 
-AI was used as a research, design and editorial partner to organise source material, test the interactive experience, challenge claims, identify counterarguments and refine the presentation. The author reviewed the evidence and remains responsible for the argument, interpretations, design proposals and any errors.
+AI was used as a research, design and editorial partner to organise source material, test the interactive experience, challenge claims, identify counterarguments and refine the presentation. The author retains responsibility for the framing, argument and final editorial decisions.
 
 ## Contributions and reuse
 
